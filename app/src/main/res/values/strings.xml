@@ -46,8 +46,8 @@
     <string name="view_artist">View artist</string>
     <string name="view_playlist">View playlist</string>
     <string name="remove_from_playlist">Remove from playlist</string>
-    <string name="confirm_remove_song_from_playlist" formatted="false">Are you sure you want to remove "%s" from playlist "%s"?</string>
-    <string name="song_removed" formatted="false">"%s" removed from playlist "%s"</string>
+    <string name="confirm_remove_song_from_playlist">Are you sure you want to remove "%s" from playlist "%s"?</string>
+    <string name="song_removed">"%s" removed from playlist "%s"</string>
     <string name="search_for_songs">Search for songs...</string>
     <string name="confirm_remove_from_queue">Are you sure you want to remove "%s" from queue?</string>
     <string name="lyrics">Lyrics</string>
