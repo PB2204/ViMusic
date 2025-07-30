@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
-    <h1>ViMusic</h1>
+    <img src="./app/src/main/aurix.png" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <h1>Aurix</h1>
     <p>An Android application for seamless music streaming</p>
 </div>
 
@@ -41,7 +41,7 @@
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
 alt="Get it on GitHub"
 height="80"
-align="center">](https://github.com/Jigen-Ohtsusuki/ViMusic/releases/latest)
+align="center">](https://github.com/PB2204/Aurix/releases/latest)
 
 ## Acknowledgments
 
