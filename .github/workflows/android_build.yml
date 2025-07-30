@@ -24,7 +24,7 @@ jobs:
       run: chmod +x gradlew
 
     - name: Build with Gradle
-      run: ./gradlew build assembleRelease
+      run: ./gradlew build assembleRelease --stacktrace --info
 
     - name: Upload a release artifact
       uses: actions/upload-artifact@v4
