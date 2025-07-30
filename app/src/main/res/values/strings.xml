@@ -274,7 +274,6 @@
     <string name="youtube_music_login_prompt_description_failed_description_youtube_music_login_required">YouTube Music login is required to sync and import/export playlists.</string>
     <string name="youtube_music_login_prompt_description_failed_description_login">Login</string>
     <string name="youtube_music_login_prompt_description_failed_description_logged_in_as">Logged in as %s</string>
-    <string name="youtube_music_login_prompt_description_failed_description_logout">Logout</string>
     <string name="youtube_music_login_prompt_description_failed_description_confirm_logout">Are you sure you want to log out from YouTube Music?</string>
     <string name="youtube_music_login_prompt_description_failed_description_logged_out">Logged out from YouTube Music.</string>
     <string name="youtube_music_login_prompt_description_failed_description_youtube_music_login_failed">YouTube Music login failed.</string>
